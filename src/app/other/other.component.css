@@ -1,0 +1,9 @@
+.other {
+border: 50px groove aquamarine;
+display: flex;
+align-content: baseline;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+

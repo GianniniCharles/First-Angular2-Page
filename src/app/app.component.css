@@ -1,0 +1,5 @@
+/*The CSS you put in will ONLY AFFECT THE COMPONENT  */
+
+li {
+  list-style-type: none;
+}
